@@ -1,6 +1,6 @@
 # Arduino_Camera_Web_Server
 
-This repository contains an example application for an ESP32-based camera server. The program configures the ESP32 to capture images using a camera module, and streams them over WiFi to a web browser UI.
+This repository contains an example application for an ESP32-based camera server. The program configures the ESP32 to capture images using a camera module, and streams them over WiFi to a web browser UI. This builds off of the example web server project in the Arduino IDE.
 
 This application uses the ESP32's integrated WiFi capabilities and PSRAM. When a user connects to the ESP32's IP address, they will be able to see the images captured by the camera and can determine various settings and formatting. 
 
